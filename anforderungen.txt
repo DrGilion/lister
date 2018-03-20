@@ -1,0 +1,35 @@
+Welcome/Tutorial.
+Sternchen falls Daten geändert wurden.
+
+Export/Import von Listen.
+
+Export von einzelnen Kategorien.
+Aktuellen Listen einzelne kategorien hinzufügen.
+
+Hinzufügen von Einträgen zu einer Kategorie. + Fehlerüberprüfung bei doppelten Einträgen.
+Einträge haben Namen.
+Einträge haben Typen (Kategorien).
+Einträge haben Tags (für Suche).
+Einträge haben Erstelldatum.
+Eintragstypen können beliebig viele Eigenschaften haben.
+Suchfunktion (erweiterte Suche mit bestimmten ausgewählten Eigenschaften eines Eintrags)(Global und lokal).
+Sortierfunktion (für jede Eigenschaft mit ASC und DESC).
+Einträge sind editierbar.
+Typänderung eines Eintrags möglich (Neues mapping der bisherigen Eigenschaften auf den neuen Zieltyp)
+Löschen von Einträgen möglich.
+Addressen als Link darstellen.
+
+.exe-Format bereitstellen.
+Druckfunktion
+
+UI:
+Einträge in Liste. Liste als Tab (oder Baumstruktur,etc.)
+Darstellung aller Informationen eines Eintrags und Möglichkeit zum Editieren.
+Mehrere UI-Variationen (Look & Feel)
+Shortcuts für alle gängigen Befehle
+
+Technisch:
+Unterstützte Datenformate: XML, JSON, TXT, Legacy-Dateiformat, sqlite
+MVC-Pattern
+Kotlin
+TornadoFX
